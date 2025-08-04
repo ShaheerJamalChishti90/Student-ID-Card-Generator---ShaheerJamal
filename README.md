@@ -36,7 +36,7 @@ A sleek and efficient PHP-based application developed by **Shaheer Jamal**, desi
 ├── index.php # Main interface
 ├── config.php # Handles card creation
 ├── id-card.php # Database connection
-├── database/Student-ID-Generator.sql # Database
+├── database/student-id-generator # Database will be created in `phpmyadmin`
 ├── assets/ # Images
 └── README.md
 </pre>
